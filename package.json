@@ -1,0 +1,17 @@
+{
+  "name": "yefra-protractor-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./conf.js --cucumberOpts.tags @test"
+  },
+  "author": "Adrian Ramos | Ar-Pe",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^5.0.2",
+    "protractor-cucumber-framework": "^6.1.1"
+  }
+}
