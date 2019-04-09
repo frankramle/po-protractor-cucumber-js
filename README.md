@@ -2,8 +2,9 @@
 
 - disponer de una terminal/VM con SO (Windows 10 / Ubuntu 18.04) que tenga instalado JAVA, Protractor (5.4.1) y Google Chrome.
 - Mediante GIT hacer un git clone del proyecto en una carpeta local (git clone https://github.com/frankramle/po-protractor-cucumber-js.git).
+- de forma global: npm install -g protractor
 - dentro de la carpeta del proyecto ejecutar "npm install" para instalar las dependencias dentro de la carpeta de proyecto. Luego:
-    - webdrivver-manager update 
+    - webdriver-manager update 
 
 ### instrucciones run test:
 
