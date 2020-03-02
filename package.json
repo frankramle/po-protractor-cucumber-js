@@ -1,8 +1,7 @@
 {
-  "name": "yefra-protractor-cucumber",
+  "name": "adrian_pe",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Test with protractor and cucumber js to page angular",
   "scripts": {
     "test": "protractor ./conf.js --cucumberOpts.tags @test"
   },
